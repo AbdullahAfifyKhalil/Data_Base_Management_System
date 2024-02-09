@@ -1,0 +1,8 @@
+C:\Users\go\Desktop\DBMS_phase_2\DBMS_phase_2\bin\Debug\DBMS_phase_2.exe.config
+C:\Users\go\Desktop\DBMS_phase_2\DBMS_phase_2\bin\Debug\DBMS_phase_2.exe
+C:\Users\go\Desktop\DBMS_phase_2\DBMS_phase_2\bin\Debug\DBMS_phase_2.pdb
+C:\Users\go\Desktop\DBMS_phase_2\DBMS_phase_2\obj\Debug\DBMS_phase_2.csprojAssemblyReference.cache
+C:\Users\go\Desktop\DBMS_phase_2\DBMS_phase_2\obj\Debug\DBMS_phase_2.Properties.Resources.resources
+C:\Users\go\Desktop\DBMS_phase_2\DBMS_phase_2\obj\Debug\DBMS_phase_2.csproj.GenerateResource.cache
+C:\Users\go\Desktop\DBMS_phase_2\DBMS_phase_2\obj\Debug\DBMS_phase_2.exe
+C:\Users\go\Desktop\DBMS_phase_2\DBMS_phase_2\obj\Debug\DBMS_phase_2.pdb
